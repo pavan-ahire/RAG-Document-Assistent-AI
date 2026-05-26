@@ -386,7 +386,7 @@ st.markdown("""
 
 st.markdown("""
 <div class="subtitle">
-Production-grade Retrieval-Augmented Generation System
+Chat with PDFs using AI-powered search
 </div>
 """, unsafe_allow_html=True)
 
