@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Production-Grade Generative AI RAG Application
+### 🚀 Chat with PDFs using AI-powered search
 
 Semantic PDF Question Answering using  
 LangChain • Groq • ChromaDB • Streamlit • HuggingFace
